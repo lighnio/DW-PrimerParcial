@@ -1,0 +1,13 @@
+.personal-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.products-cont{
+    width: 75%;
+}
+
+.aside-cont{
+    width: 20%;
+}
